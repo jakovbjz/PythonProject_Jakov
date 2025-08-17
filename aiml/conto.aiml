@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.0" encoding="UTF-8">
+<category>
+    <pattern>PESQUISAR</pattern>
+    <template>Para fazer a pesquisa no ChatBot digite:
+      O que é Conto do Vigário? O que é um vigarista? O que os golpes online significam?
+      Alguns tipos de golpes online são? Privacidade e regulamentação na Internet.
+      Vigaristas famosos e os Modernos. Por que a Bíblia condena o engano?
+      O que é crime de ódio online? O que é crime contra a honra online?
+      Existem leis sobre crimes digitais? Mais golpes? Outros golpes online?
+      Quem são os Gurus da Internet? O que é bizarro? O amor é lindo?
+      O que é Engenharia social? Como é a Engenharia Social com a pessoa física?
+      Como é a Engenharia social no Setor Privado? O que é Pharming? Quem são os Hackers?
+      Legislação. Ataque global. Experiência do usuário. </template>
+  </category>
+
+<category>
+    <pattern>O QUE É CONTO DO VIGÁRIO</pattern>
+    <template>
+      A expressão "conto do vigário" refere-se a uma história ou armadilha utilizada
+      para enganar alguém, levando-o a acreditar em algo falso ou irreal, geralmente
+      com o objetivo de obter vantagem financeira ou outras vantagens pessoais.
+      A origem dessa expressão remonta a práticas antigas de enganação realizadas por vigários.
+      Para saber mais digite: Qual é a origem do Conto do vigário? A história do Conto do Vigário?
+      O conceito do conto do vigário? O Conto do Vigário por Fernando Pessoa, Cair no Conto do vigário?
+      Ir no conto do vigário? </template>
+  </category>
+  <category>
+    <pattern>QUAL É A ORIGEM DO CONTO DO VIGÁRIO</pattern>
+    <template>Origem Religiosa: No século XVIII e XIX, vigários e outros representantes
+    religiosos às vezes se envolviam em fraudes ou eram usados como instrumentos por
+    indivíduos que desejavam enganar pessoas ingênuas, especialmente em áreas rurais e
+    menos escolarizadas. Conto do Vigário como metáfora: Com o tempo, a expressão passou a
+    simbolizar qualquer tipo de golpe ou engano elaborado, independentemente de envolvimento
+    religioso direto. A ideia é que alguém é "enganado pelo vigário" pela própria figura que
+    deveria representar confiabilidade e moralidade. Narrativa típica: Muitas histórias
+    relacionadas ao "conto do vigário" envolviam pessoas que eram convencidas a entregar
+    dinheiro, joias ou bens sob falsas promessas, muitas vezes por meio de histórias
+    convincentes ou manipulações emocionais. Uso popular: Hoje, a expressão é usada no Brasil
+    e em Portugal para designar golpes, fraudes ou histórias inventadas com a intenção de
+    enganar alguém. O "conto do vigário" é uma metáfora que tem suas raízes na prática de
+    enganar pessoas por meio de histórias ou truques, muitas vezes relacionados a fraudes
+    financeiras, e que se consolidou na cultura popular como uma expressão para golpes ou
+    armadilhas enganosas.</template>
+  </category>
+  <category>
+    <pattern>A HISTÓRIA DO CONTO DO VIGÁRIO</pattern>
+    <template>O "conto do vigário" é uma expressão usada em Portugal e no Brasil para descrever uma história ou
+    esquema elaborado com o objetivo de enganar e obter dinheiro de forma fraudulenta. A origem da expressão
+    remonta ao século XIX, com a história de um fazendeiro, Manuel Peres Vigário, que foi enganado por um falsário
+    que lhe ofereceu notas falsas. A história: O falsário - Apresentava-se como um negociante que tinha notas falsas
+    para vender a um preço baixo. A vítima - Vigário, um fazendeiro ingênuo, era convencido a comprar as notas, com
+    a promessa de que elas seriam trocadas por dinheiro verdadeiro depois. A fraude - As notas eram falsas, e o
+    falsário desaparecia com o dinheiro da vítima. O conto - A história de Vigário e o falsário se tornou conhecida,
+    e a expressão "conto do vigário" passou a ser usada para descrever qualquer história elaborada com o objetivo de
+    enganar alguém e tirar dinheiro. Outras versões da origem: Herança de um vigário - Algumas versões da origem da
+    expressão mencionam que os bandidos contavam histórias de heranças deixadas por um vigário, que seriam obtidas
+    mediante o pagamento de taxas e outras quantias. Representante do vigário - Outra versão diz que, no século XIX,
+    malandros se passavam por representantes do vigário, alegando ter uma grande quantia em dinheiro que precisavam
+    guardar para continuar a viagem, solicitando a guarda do dinheiro. Significado atual- Atualmente, "conto do vigário"
+    é usado para se a uma história ou situação é inventada para enganar alguém e obter dinheiro ou outros benefícios.
+    "Conto do Vigário" é uma referência a uma história real de fraude e enganação que se tornou um símbolo de qualquer
+    esquema de trapaça e furto. </template>
+  </category>
+  <category>
+    <pattern>O CONCEITO DO CONTO DO VIGÁRIO</pattern>
+    <template>O "conto do vigário" é uma expressão popular de uma história complicada e enganosa, contada
+    por um vigarista para obter dinheiro ou outros benefícios. Historicamente, os contos de heranças
+    ou oportunidades de enriquecimento eram armadilhas para enganar e roubar os incautos.
+    Origem: O termo "conto do vigário" surgiu com o objetivo de fraudar pessoas com histórias convincentes,
+    frequentemente envolvendo heranças ou negócios de sucesso. Vigarista: O vigarista é o individuo que utiliza
+    essas histórias falsas para obter vantagem sobre os outros. Vítima: A vítima é aquela que se deixa enganar
+    pela história, acreditando na sua veracidade e, por consequência, perdendo dinheiro ou outros bens.
+    Contexto: O "conto do vigário" pode ser encontrado em diversos contextos sociais, desde histórias de herança
+    de parentes distantes até negócios que promovem enriquecimento rápido. A evolução: Com o passar do tempo, o
+    "conto do vigário" adaptou-se às novas tecnologias e às mudanças culturais, mas a essência da fraude e da
+    manipulação permaneceu a mesma. O "conto do vigário" é uma expressão que denuncia a existência de fraudes e
+    armadilhas, alertando para a importância de se ter cautela com histórias que parecem boas demais para serem
+    verdadeiras. </template>
+  </category>
+  <category>
+    <pattern>O CONTO DO VIGÁRIO POR FERNANDO PESSOA</pattern>
+    <template>"O Conto do Vigário", escrito por Fernando Pessoa, é uma história de burla e
+    ganância, onde Manuel Peres Vigário, um homem do campo, engana seus vizinhos oferecendo-lhes
+    notas falsas em troca de dinheiro real, aproveitando-se da sua ingenuidade. A história é um
+    exemplo clássico do que se convencionou chamar de "conto do vigário", uma narrativa utilizada
+    para enganar e tirar dinheiro de alguém. A história: A narrativa descreve como Manuel Peres Vigário,
+    um homem do campo, oferece um lote de notas falsas, alegando que são de valor superior, a seus
+    vizinhos e amigos. A burla: Vigário se aproveita da ganância e da confiança dos outros para lhes
+    oferecer as notas falsas em troca de dinheiro real, criando uma história elaborada para justificar
+    a transação. Consequências: A história de Vigário se torna um conto de advertência sobre a importância
+    da vigilância e da desconfiança diante de propostas que parecem boas demais para ser verdade.
+    A expressão "conto do vigário", que em português de Portugal e do Brasil significa uma história elaborada
+    com o objetivo de burlar alguém. Com o  passar do tempo, a história continua relevante, pois a ganância e a
+    ingenuidade humana são fenômenos que persistem ao longo da história.</template>
+  </category>
+  <category>
+    <pattern>CAIR NO CONTO DO VIGÁRIO</pattern>
+        <template>Cair no "conto do vigário" é levar um golpe, ser passado para trás,
+        vergonhosamente. Mas qual teria sido o primeiro conto do vigário?
+        Segundo a pesquisadora mineira Lourdes Aurora, na verdade a expressão inicial era
+        cair na "conta do vigário", pois esses recebiam ouro roubado e pagavam pouco aos
+        escravos. Várias igrejas foram construídas segundo Lourdes, pelo "conta do vigário".
+        Daí que veio a palavra "vigarista", pessoa que agia como os vigários de antes.
+        Não é esse exatamente o caso da comédia o conto do vigário, escrita por João Bethencourt.
+        Neste "conto do vigário" quem acaba dando o golpe é o próprio vigário, que se torna um
+        assaltante, mas com muito boa intenção, que é de salvar os pobres moradores de uma favela.
+        O peça "Conto do Vigário" conta a história de Padre Zeferino que "por força das circunstâncias"
+        acaba praticando os assaltos que Félix Crispim, um conhecido ladrão, lhe adianta em
+        confissão. Depois do primeiro assalto, a vida de Padre Zeferino se torna uma grande
+        confusão e ele não consegue mais sair da bandidagem. Originalmente intitulada
+        "O Padre Assaltante".</template>
+  </category>
+  <category>
+    <pattern>IR NO CONTO DO VIGÁRIO</pattern>
+        <template>A expressão “ir no conto do vigário” é sinónimo de “deixar-se enganar” ou de “ir
+        na conversa”. Já “conto do vigário” significa “falcatrua”, “malandragem”.
+        Semanticamente, “conto do vigário” é a golpada ou o delito cometido por alguém que se faz
+        passar por outro, ludibriando a vítima que está de boa-fé, mas é gananciosa.</template>
+  </category>
+  <category>
+    <pattern>O QUE É UM VIGARISTA</pattern>
+    <template>Um vigarista é uma pessoa que usa de fraude, engano e manipulação para obter vantagens
+    ilícitas, financeiras. O objetivo principal é enganar suas vítimas para que elas entreguem dinheiro,
+    bens, informações pessoais ou qualquer outro tipo de benefício, sem ter a intenção de cumprir com o
+    prometido. Eles são mestres na arte do convencimento e costumam ser charmosos, persuasivos e muito
+    habilidosos em construir histórias e cenários falsos que parecem críveis. A palavra "vigarista" é
+    frequentemente associada a golpes e trapaças, sendo sinônimo de golpista, trapaceiro, impostor, burlador
+    ou charlatão. Para saber mais sobre vigaristas, digite: Quais Crimes um Vigarista pode Cometer?
+    Da Onde vem o Termo Vigarista? A oratória dos vigaristas, Qual é a Característica do
+    Vigarista? O Vigarista online, Tipos de Golpes online.</template>
+  </category>
+  <category>
+    <pattern>QUAIS CRIMES QUE UM VIGARISTA PODE COMETER</pattern>
+        <template>Um vigarista é uma pessoa que se aproveita da boa-fé e da ingenuidade de
+        outras pessoas para enganá-las e obter vantagens, financeiras. Usa de astúcia,
+        mentira e fraude para levar outras à ilusão. Pode ser considerado um sinônimo de:
+        Trapaceiro - Golpista - Burlão - Intrujão - Velhaco - Embusteiro - Impostor.
+        O termo se popularizou muito com a expressão "conto do vigário", que é um tipo de
+        golpe em que o criminoso inventa uma história mirabolante e convincente para
+        persuadir a vítima a entregar dinheiro ou bens. O nome vem do fato de que o golpista
+        se passava por uma figura respeitável, como um padre ou vigário, para ganhar a confiança
+        da pessoa. Fique sempre atento a ofertas muito vantajosas ou pedidos de dinheiro
+        incomuns, pois o vigarista é muito persuasivo e usa artimanhas para conseguir o que quer.
+        Para saber mais, você pode digitar: Da onde vem o termo vigarista? A oratória dos vigaristas,
+        Qual é a Característica do Vigarista? O Vigarista Online, Tipos de golpes online, Os Golpes
+        Digitais e Virtuais.</template>
+  </category>
+  <category>
+    <pattern>DA ONDE VEM O TERMO VIGARISTA</pattern>
+        <template>"Vigarista" deriva do latim "vicarius", "substituto" ou "aquele que está
+        no lugar de outro". O termo está associado a golpes que envolviam vigários (padres
+        que substituíam outros temporariamente). Com o passar do tempo, a palavra passou a
+        ser usada para as pessoas que enganam ou fraudam outras, aproveitando da confiança
+        alheia. Vigarista é aquele que pratica o delito do conto do vigário através de um
+        ato de má-fé, tenta ou consegue ludibriar alguém com o intuito de obter para si uma
+        vantagem; adjetivo de dois gêneros que é próprio de ou denota vigarice.</template>
+  </category>
+  <category>
+    <pattern>QUAL É A CARACTERÍSTICA DO VIGARISTA</pattern>
+    <template>É uma pessoa que age de forma desonesta, enganando para obter benefícios pessoais
+    ou financeiros. Manipulam situações e pessoas, para alcançar seus objetivos. Algumas
+    características comuns em um vigarista são: Manipulação: são mestres em manipular as emoções
+    e ações das pessoas ao seu redor. - Mentiras e falsas promessas: contam mentiras convincentes
+    e falsas promessas para enganar os outros. - Falta de remorso: não sentem culpa por suas ações
+    e estão dispostos a prejudicar os outros para alcançar seus objetivos. - Autoconfiança excessiva:
+    possuem uma autoconfiança que os ajuda a convencer os outros de suas mentiras. - Ausência de
+    empatia: não se importam com o sofrimento ou prejuízo que causam aos outros. </template>
+  </category>
+  <category>
+    <pattern>A ORATÓRIA DOS VIGARISTAS</pattern>
+    <template>Vigaristas sem batinas, usam a oratória sedutora para convencer seus seguidores
+    que em suas mãos está a preciosa fórmula do sucesso e da riqueza. Onde a inverdade se
+    mistura com palavras difíceis, toques de preceitos religiosos vai ao encontro do que se
+    deseja ouvir. Onde seres iluminados e escolhidos tiveram acesso a fórmulas perfeitas
+    e secretas, que podem resolver todos os problemas existentes com apenas alguns cliques,
+    é só decidir se o pagamento será no cartão de crédito ou no pix.</template>
+  </category>
+  <category>
+    <pattern>O VIGARISTA ONLINE</pattern>
+    <template>Um vigarista online é a mesma pessoa que usa de fraude e manipulação, mas que adapta suas táticas
+    para o ambiente digital. Ele explora as vulnerabilidades da internet e a pouca familiaridade de algumas pessoas
+    com as ferramentas digitais para aplicar golpes, obter dinheiro, dados pessoais ou outros benefícios ilícitos.
+    A internet é um grande campo de atuação por vigaristas, pois permite o anonimato, o alcance é global e a
+    automatização de muitas de suas fraudes.</template>
+  </category>
+  <category>
+    <pattern>O QUE OS GOLPES ONLINE SIGNIFICAM</pattern>
+    <template>Os golpes online, também conhecidos como crimes cibernéticos, significam fraudes e manipulações
+    praticadas através da internet para enganar indivíduos e obter informações pessoais, financeiras ou dados
+    confidenciais, para roubar dinheiro ou comprometer a segurança das vítimas.  Aluguns tipos de golpes:
+    - Golpe do WhatsApp: Clonam o número para enviar mensagens falsas pedindo dinheiro aos seus contatos.
+    - Instalação de Softwares Maliciosos: Malwares são instalados quando usuários clicam em links suspeitos
+    ou visitam sites comprometido.
+    - Boletos Falsos: Enviam boletos bancários fraudulentos por e-mail ou outras plataformas digitais.
+    - Roubo de Dados de Cartões: Os dados dos cartões de crédito podem ser roubados em sites não seguros ou falsos.
+    - Falsos links de rastreamento: Links em mensagens que parecem de entregas, mas podem instalar vírus ou roubar
+    informações.
+    - Golpes com Pix:Enviam comprovantes falsos ou usam outros truques para enganar e pedir dinheiro.
+    - Pharming: Redireciona você a sites falsos mesmo digitando o endereço correto.
+    Como se proteger: - Desconfie de links suspeitos e não clique neles.
+    - Sempre confira a URL do site antes de inserir seus dados.
+    - Se desconfiar de uma mensagem ou ligação, confirme entrando em contato direto com a empresa.
+    - Proteja seu celular com senhas fortes e antivírus. - Não compartilhe informações pessoais facilmente na internet.
+    - Fique atento a ofertas de emprego que parecem boas demais ou pedem dados antecipadamente.
+    Os golpes ilegais são esquemas fraudulentos que prometem ganho de dinheiro altos e rápidos, só roubar o dinheiro.
+    Aproveitam da vontade de melhorar de vida e exploram a vulnerabilidade ou a busca por dinheiro fácil.
+    Desconfie de promessas que parecem boas demais para ser verdade. Para saber alguns tipos comuns digite:
+    O que é  Mão Fantasma? Alguns Tipos de Golpes Ilegais Online?.</template>
+    </category>
+    <category>
+    <pattern>O QUE É MÃO FANTASMA</pattern>
+    <template>O golpe da mão fantasma, ou acesso remoto, é como os criminosos podem controlar
+    dispositivos como celulares, tablets ou computadores à distância, sem o do usuário saber.
+    Com maliciosos, induzem a instalação de softwares de controle remoto ou solicitam permissões
+    de acesso, permitindo monitoramento, transações ilegais, roubo de dados e alterações de
+    configurações de segurança. Passa despercebido por um tempo, mas o comprometimento incluem
+    atividades estranhas nas contas, mudanças não autorizadas de senha, desempenho anormal do dispositivo,
+    alertas de logins em locais desconhecidos e recebimento de mensagens suspeitas. Fique atento a esses
+    sinais e aja rapidamente para proteção das informações. Para saber mais sobre mão fantasma,
+    digite: Você foi Vítima da Mão Fantasma? Como Evitar a Mão Fantasma?</template>
+  </category>
+  <category>
+    <pattern>VOCÊ FOI VÍTIMA DA MÃO FANTASMA</pattern>
+    <template>Se você foi vítima do golpe da mão fantasma, aja rapidamente:
+    desconecte seu dispositivo da internet, troque todas as senhas, entre em contato com
+    suporte das empresas envolvidas, registre um boletim de ocorrência na polícia e revise
+    seus extratos bancários e de cartões de crédito para detectar possíveis fraudes.</template>
+  </category>
+  <category>
+    <pattern>COMO EVITAR A MÃO FANTASMA</pattern>
+    <template>Para se proteger contra o golpe da mão fantasma, é importante adotar medidas
+    preventivas. Evite compartilhar senhas e dados pessoais, desconfie de links e anexos
+    suspeitos, utilize senhas fortes e diferentes para cada conta, ative a autenticação de
+    dois fatores (2FA), mantenha seus dispositivos e aplicativos atualizados e desconfie de
+    contatos oferecendo suporte técnico não solicitado. Essas ações ajudam a evitar cair em
+    fraudes e proteger suas informações.</template>
+  </category>
+  <category>
+    <pattern>ALGUNS TIPOS DE GOLPES ONLINE SÃO</pattern>
+     <template>Golpes ilegais são esquemas financeiros fraudulentos que prometem ganhos
+     altos e rápidos, para roubar o dinheiro. Aproveitam da vontade de melhorar de vida e
+     exploram a vulnerabilidade ou a busca por dinheiro fácil. Desconfie de promessas que
+     parecem boas demais para ser verdade. Para saber alguns tipos comuns digite: Golpe da
+     Pirâmide, Não Existe Dinheiro Fácil, Promoções ou Sorteios, Phishing e Engenharia Social,
+     Não seja Ganancioso, O Golpe do Pix errado, Como se proteger?</template>
+        </category>
+        <category>
+    <pattern>GOLPE DA PIRÂMIDE</pattern>
+        <template>Este é um dos golpes mais antigos e perigosos. A pessoa é convidada a investir
+        dinheiro com a promessa de lucros ao recrutar novas pessoas. Os primeiros participantes
+        recebem dinheiro pago pelos novatos, criando uma ilusão de sucesso. O esquema entra em
+        colapso quando não há mais gente para entrar, e a maioria dos participantes perde tudo.
+        O lucro de poucos vem da perda de muitos.</template>
+  </category>
+        <category>
+    <pattern>NÃO EXISTE DINHEIRO FÁCIL</pattern>
+        <template>Golpes de "Dinheiro Fácil" ou Investimentos Milagrosos - Propostas de investimento
+        com retornos exorbitantes em pouco tempo e nenhum risco. Evolvem produtos financeiros de
+        investimentos em empresas que não existem de fato. A atração é a ideia de enriquecer sem
+        esforço, apelando à ganância.</template>
+  </category>
+  <category>
+    <pattern>PROMOÇÕES OU SORTEIOS</pattern>
+        <template>Receber mensagens (por e-mail, SMS, redes sociais) dizendo que ganhou um
+        prêmio, entre outros, mas para resgatá-lo, é preciso pagar uma taxa antecipada ou
+        fornecer dados pessoais e bancários. Também pode ser chamado de "cautela premiada",
+        onde o golpista pede um valor para liberar o suposto prêmio.</template>
+  </category>
+  <category>
+    <pattern>PHISHING E ENGENHARIA SOCIAL</pattern>
+        <template>São técnicas para obter informações confidenciais. Eles se passam por
+        instituições conhecidas em e-mails ou mensagens para que você clique em links
+        maliciosos ou forneça seus dados. Em redes sociais, a engenharia social é comum,
+        com perfis falsos ou mensagens que exploram sua confiança.</template>
+  </category>
+  <category>
+    <pattern>NÃO SEJA GANANCIOSO</pattern>
+        <template>A ganância é o alvo do vigarista a ir no conto do vigário. Os esquemas são muitos
+        e variados. Ainda se ouve relatos na televisão de pessoas, geralmente idosas e em lugares
+        remotos de Portugal, que foram na conversa de vigaristas.</template>
+  </category>
+  <category>
+  <pattern>O GOLPE DO PIX ERRADO</pattern>
+    <template>O criminoso transfere um valor via Pix para a vítima e, depois, afirma que foi
+    um erro, solicitando a devolução para uma terceira conta. Aproveitando a boa fé da vítima,
+    ele faz a devolução, mas, após receber o dinheiro, aciona o Mecanismo Especial de Devolução
+    (MED) do Banco Central, que pode levar até três meses para reverter a transação. Assim,
+    a vítima acaba perdendo o dinheiro, pois o valor é devolvido à conta original após a
+    devolução para a terceira pessoa. Para evitar prejuízos, é recomendado registrar um Boletim
+    de Ocorrência (B.O.) e nunca devolver Pix para terceiros. Em caso de pedido de estorno,
+    a pessoa deve usar a opção de devolução no app bancário, que garante o retorno do valor à
+    conta de origem.</template>
+    </category>
+  <category>
+    <pattern>COMO SE PROTEGER</pattern>
+        <template>Para evitar cair em armadilhas, fique sempre cético com promessas de ganhos
+        altos e rápidos. A sua cautela protegerá seu dinheiro. Para saber mais como se proteger
+        digite: Não Há Fórmula Mágica, Pesquise e Verifique, Desconfie de Pressão, Proteja Seus
+        Dados, Em Tempos de Crise, Privacidade e regulamentação na internet.</template>
+  </category>
+  <category>
+  <pattern>NÃO HÁ FÓRMULA MÁGICA</pattern>
+        <template>Não existe dinheiro fácil, nem fórmula mágica para isso. Investimentos
+        legítimos sempre envolvem riscos e seus rendimentos são proporcionais a eles. Se a
+        promessa é muito boa, desconfie.</template>
+  </category>
+  <category>
+  <pattern>PESQUISE E VERIFIQUE</pattern>
+        <template>Pesquise a empresa ou a pessoa da proposta. Verifique se é regulamentada
+        por órgãos financeiros competentes.</template>
+  </category>
+  <category>
+    <pattern>DESCONFIE DE PRESSÃO</pattern>
+    <template>Golpistas geralmente pressionam para tomar decisões rápidas, sem tempo para
+    pensar ou pesquisar.</template>
+  </category>
+  <category>
+    <pattern>PROTEJA SEUS DADOS</pattern>
+    <template>Nunca compartilhe senhas, códigos de segurança ou informações bancárias por
+    telefone, e-mail ou mensagens, a menos que você tenha certeza da idoneidade do contato.</template>
+  </category>
+  <category>
+    <pattern>EM TEMPOS DE CRISE</pattern>
+    <template>Golpistas se aproveitam de momentos de dificuldade econômica para oferecer
+    soluções rápidas e ilusórias. Esteja ainda mais alerta.</template>
+  </category>
+  <category>
+    <pattern>PRIVACIDADE E REGULAMENTAÇÃO NA INTERNET</pattern>
+    <template>O Marco Civil da Internet tem a privacidade como um dos seus principais pontos, a
+    Lei Geral de Proteção de Dados Pessoais (LGPD) cria uma regulamentação para o uso, proteção e
+    transferência de dados pessoais. A LGPD pode ter diversas aplicações em relação às plataformas
+    digitais. Para saber mais, digite: Qual é o Tempo de Validade dos dados nas Redes Sociais e na Internet?
+    Há alguma maneira como Descobrir o IP Criminoso?.</template>
+  </category>
+  <category>
+    <pattern>QUAL É O TEMPO DE VALIDADE DOS DADOS NAS REDES SOCIAIS E NA INTERNET</pattern>
+    <template>Cada rede social define seus próprios prazos de retenção de dados nos termos de uso e
+    políticas de privacidade. Em geral: Dados podem ser mantidos enquanto a conta estiver ativa. Mesmo
+    após a exclusão da conta, alguns dados podem ser retidos por motivos legais, de segurança ou auditoria,
+    por um período adicional. Segundo a Lei Geral de Proteção de Dados (LGPD) no Brasil: Os dados devem ser
+    armazenados apenas pelo tempo necessário para cumprir a finalidade para a qual foram coletados. Após isso,
+    devem ser eliminados, anonimizados ou arquivados de forma segura. Exemplos de prazos sugeridos pela LGPD -
+    5 anos: dados relacionados a pagamentos ou controle de horas - 20 anos: registros médicos - 3 anos: contatos
+    de clientes potenciais sem resposta - 6 meses: logs de acesso. Empresas como Google e Meta costumam manter
+    um histórico extenso de atividades dos usuários, como buscas, cliques, localização e interações, para
+    personalizar anúncios e serviços. Mesmo após a exclusão da conta, alguns dados podem permanecer armazenados
+    por um tempo. Pelo Marco Civil da Internet, as Redes sociais (Facebook, Instagram, WhatsApp etc.)
+    tem de guardar os registros de acesso a aplicações por 6 meses.
+    Os provedores de Internet  guardarão os registros de conexão por 1 ano. É preciso agir
+    rapidamente.</template>
+  </category>
+  <category>
+    <pattern>HÁ ALGUMA MANEIRA COMO DESCOBRIR O IP CRIMINOSO</pattern>
+    <template>Servidores e plataformas mantêm logs de acesso que registram o IP de origem
+    dos visitantes, incluindo os que comentam ou interagem em sites ou redes sociais. Algumas
+    redes sociais e plataformas oferecem ferramentas de auditoria ou download de dados de
+    interação, incluindo o IP do usuário. Existem bancos de dados e serviços que armazenam
+    informações de IPs, informações sobre o provedor de internet, localização geográfica e
+    histórico de atividades. A  a investigação forense digital pode ser necessária para
+    analisar dados de servidores, dispositivos e redes para rastrear IPs e identificar
+    criminosos. É possível solicitar à justiça que determine a revelação dos IPs e informações
+    dos usuários envolvidos, com a devida autorização judicial. Criminosos usam VPNs e proxies
+    para mascarar seus IPs. Os IPs podem ser dinâmicos e alterados. Revelar informações
+    de IP e dados pessoais está sujeita a legislação de proteção de dados e privacidade.
+    A identificação e o rastreamento de IPs podem levar a processos legais e investigações
+    formais</template>
+    </category>
+    <category>
+    <pattern>VIGARISTAS FAMOSOS E OS MODERNOS</pattern>
+    <template>
+      Alguns Vigaistas Hisóricos: Iluminismo, Ponzi. E na modernidade digite: Os Vigaristas Modernos.
+    </template>
+  </category>
+  <category>
+    <pattern>ILUMINISMO</pattern>
+    <template>
+      No século XVIII, o Conde de Saint Germain e Cagliostro encantavam elites com promessas
+      de juventude eterna, poderes mágicos e curas milagrosas. Cagliostro chegou a ser preso
+      pela Inquisição e foi inspiração de Alexandre Dumas.
+    </template>
+    </category>
+  <category>
+    <pattern>PONZI</pattern>
+    <template>
+      Carlo Ponzi criou um dos esquemas de burla financeira mais famosos: o esquema Ponzi.
+      Prometia lucros de 50% em poucos meses, mas usava o dinheiro de novos investidores
+      para pagar os antigos. Foi preso e seu nome ficou associado a fraudes semelhantes até hoje.
+    </template>
+  </category>
+  <category>
+    <pattern>OS VIGARISTAS MODERNOS</pattern>
+    <template>
+      Hoje, os vigaristas usam tecnologia para espalhar mentiras e enganar pessoas. Nas redes sociais
+      e fraudes digitais massificaram a profissão, fazendo com que até os mais inteligentes caiam
+      em armadilhas bem elaboradas.
+    </template>
+  </category>
+</aiml>
+
+

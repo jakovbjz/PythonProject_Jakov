@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <title>Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 0;
+            padding: 0;
+        }
+        #chat-container {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        #messages {
+            height: 400px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 20px;
+            background-color: #fafafa;
+        }
+        .message {
+            margin-bottom: 10px;
+        }
+        .user {
+            text-align: right;
+            color: #333;
+        }
+        .bot {
+            text-align: left;
+            color: #555;
+        }
+        #input-area {
+            display: flex;
+            margin-bottom: 20px;
+        }
+        #message-input {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+        }
+        #send-btn {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin-left: 10px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 4px;
+        }
+        #send-btn:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <div id="chat-container" style="text-align: center;">
+        <h2>"O Conto do Vigário"<br>
+        O ChatBot que vai do Vigarista à Engenharia Social</h2><br>
+        <h2>Para experimentar é só digitar "PESQUISAR"</h2>
+        <div id="messages"></div>
+        <div id="input-area">
+            <input type="text" id="message-input" placeholder="Digite sua mensagem..." />
+            <button id="send-btn">Enviar</button>
+        </div>
+        <h2>Compartilhe uma experiência</h2>
+<div style="margin-bottom:10px;">
+    <input type="text" id="titulo-experiencia" placeholder="Título da experiência" style="width:80%; padding:8px; margin-bottom:10px; font-family: Aptos"/><br>
+    <textarea id="historia-experiencia" placeholder="Conte sua história..." style="width:80%; height:100px; padding:8px; font-family: Aptos"></textarea><br>
+    <button id="enviar-experiencia" style="padding:8px; margin-top: 10px;">Enviar Experiência</button>
+</div>
+    <script>
+        const messagesDiv = document.getElementById('messages');
+        const inputField = document.getElementById('message-input');
+        const sendButton = document.getElementById('send-btn');
+
+        function addMessage(text, sender) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = 'message ' + sender;
+            messageDiv.innerText = text;
+            messagesDiv.appendChild(messageDiv);
+            messagesDiv.scrollTop = messagesDiv.scrollHeight;
+        }
+
+        async function sendMessage() {
+            const message = inputField.value.trim();
+            if (!message) return;
+
+            addMessage(message, 'user');
+            inputField.value = '';
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ message: message, emotion: 'neutro' }) // ajuste a emoção se necessário
+                });
+                const data = await response.json();
+                addMessage(data.response, 'bot');
+            } catch (error) {
+                addMessage('Erro ao obter resposta do servidor.', 'bot');
+                console.error(error);
+            }
+        }
+
+        sendButton.addEventListener('click', sendMessage);
+        inputField.addEventListener('keyup', function(event) {
+            if (event.key === 'Enter') {
+                sendMessage();
+            }
+        });
+
+        const tituloInput = document.getElementById('titulo-experiencia');
+        const historiaInput = document.getElementById('historia-experiencia');
+        const enviarExperienciaBtn = document.getElementById('enviar-experiencia');
+
+    enviarExperienciaBtn.addEventListener('click', async () => {
+    const titulo = tituloInput.value.trim();
+    const historia = historiaInput.value.trim();
+    if (!titulo || !historia) {
+        alert("Por favor, preencha o título e a história.");
+        return;
+    }
+
+    try {
+        const response = await fetch('/salvar', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ titulo: titulo, historia: historia })
+        });
+        const data = await response.json();
+        alert(data.message);
+        addMessage(`Experiência enviada: ${titulo}`, 'user');
+        addMessage('Obrigado por compartilhar sua experiência!', 'bot');
+
+        } catch (error) {
+        alert('Erro ao enviar sua experiência.');
+        console.error(error);
+    }
+});
+</script>
+</div>
+</body>
+</html>

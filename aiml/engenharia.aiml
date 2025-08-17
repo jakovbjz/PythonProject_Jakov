@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.0" encoding="UTF-8">
+<category>
+    <pattern>O AMOR É LINDO</pattern>
+    <template>O "golpe do amor virtual", ou "romance scam" ou estelionato sentimental e afetivo, é
+    uma forma cruel e sofisticada de engenharia social que explora a carência emocional, o desejo por
+    um relacionamento e a boa-fé das vítimas. Os criminosos criam uma fachada de romance para manipular
+    emocionalmente as pessoas e extorquir dinheiro ou obter informações sensíveis. Nas redes sociais
+    e sites de encontros, Para saber mais, digite: Como é o golpe romântico? O que é Catfishing?
+    Como é o golpe do encontro online? Como é o golpe em site de encontro? Como denunciar o golpe romântico?
+    </template>
+  </category>
+ <category>
+    <pattern>COMO É O GOLPE ROMANTICO</pattern>
+    <template>
+      O golpe romântico, ou golpe do namoro virtual, acontece quando um bandido vive um
+      relacionamento romântico virtual falso com sua vítima. O golpista geralmente usará
+      uma identidade falsa online para atrair a vítima. Assim que a vítima demonstrar
+      interesse, o golpista trabalhará para ganhar a confiança até que finalmente peça
+      dinheiro ou tenha informações pessoais suficientes para roubar seu dinheiro ou
+      identidade.</template>
+  </category>
+<category>
+        <pattern>O QUE É CATFISHING</pattern>
+    <template>
+      O catfishing é um tipo de golpe romântico em que o bandido usa informações de outra
+      pessoa (como fotos e dados pessoais) como se fossem suas. Geralmente esse tipo de
+      golpe envolve o uso de perfis online falsos para atacar pessoas específicas.
+      Os motivos que levam ao catfishing podem ser financeiros, vingança, desejo pessoal ou
+      somente diversão. Ao contrário dos golpes românticos, o catfishing nem sempre visa
+      atrair alguém para um relacionamento romântico – às vezes, é apenas “amizade”.
+      E embora o objetivo do catfishing nem sempre seja financeiro, a vítima geralmente
+      acaba se sentindo magoada, envergonhada, irritada ou triste...</template>
+  </category>
+  <category>
+    <pattern>COMO É O GOLPE DO ENCONTRO ONLINE</pattern>
+    <template>Quais são os sinais de um golpista de encontros online? Golpes do namoro na
+    internet envolvem histórias elaboradas e truques de engenharia social desenvolvidos para
+    tirar dinheiro da vítima. Os sinais comuns de um golpista de encontros online incluem um
+    perfil leve nas redes sociais, desejo de avançar rapidamente, pedidos de dinheiro e nunca
+    querer se encontrar ou fazer uma videochamada. Sinais de alerta que provavelmente indicam
+    que você está lidando com um golpista de encontros online: Perfis de encontro falsos -
+    golpistas precisam construir uma identidade incrível em diferentes plataformas, então
+    seus perfis online são mínimos. Porém, muitos perfis de golpistas possuem um formato
+    similar, o que pode ajudar na identificação de românticos ou catfishers.
+    como identificar um perfil de um pretendente falso:
+    Foto de perfil anormalmente atraente. Impostores tendem a escolher uma foto de perfil
+    que chame a atenção das vítimas. Geralmente eles utilizam imagens manipuladas de atores
+    e modelos disponíveis em bancos de imagens.
+    Poucas fotos no perfil. Geralmente as fotos de golpistas de encontros online denunciam
+    o bandido. Há mais chances de perfis falsos terem poucas fotos, e todas elas possuem uma
+    aparência profissional. Muitos evitam fotos de pessoas, dando preferência a imagens de
+    animais ou atividades de lazer.
+    Poucos amigos. Se alguém com um número estranhamente baixo de conexões, amigos ou seguidores
+    entrar em contato com você via redes sociais, isso pode ser um sinal de que do outro lado
+    da tela há um bandido.
+    Eles não vivem nem trabalham perto de você. Golpistas românticos geralmente alegam ter
+    empregos que os mantém convenientemente fora do país por longos períodos.
+    Outro sinal comum de golpes românticos é o desenvolvimento rápido do relacionamento.
+    Golpistas querem construir uma conexão emocional rápida para explorar uma vítima e
+    partir para outra. Uma situação típica desse cenário envolve declarações de amor depois
+    de poucas conversas, com promessas de casamento ou convite para morarem juntos.
+    Outra tática é elogiar incansavelmente a vítima dando a ela toda a atenção do mundo,
+    em um verdadeiro “bombardeio de amor”, também conhecido como “love bombing”. Geralmente
+    os golpistas preparam roteiros para ajudá-los a iludir as vítimas. Por exemplo, se
+    alguém diz coisas como “você é a melhor pessoa que já conheci” ou “nosso caso estava
+    escrito nas estrelas” depois de poucos encontros, pode ser um sinal de que se está
+    diante de um impostor. É comum que esses bandidos tentem levar suas vítimas para outros
+    aplicativos, como o WhatsApp. Isso evita os processos de segurança impostos
+    pela maioria dos sites e aplicativos de encontro. Isso também permite que os golpistas
+    solicitem informações pessoais, como endereço de e-mail ou número de telefone.
+    Levar a conversa para outra plataforma pode não parecer suspeito. Mas, você sempre
+    deve ter cautela ao compartilhar seus dados pessoais, especialmente com alguém que
+    nunca viu antes. Isso também pode ajudar na proteção contra roubo de identidade e
+    golpes relacionados. Caso você desconfie de que esteja se envolvendo com um golpista,
+    tente programar uma videochamada no Google Meet ou qualquer outro serviço desse tipo.
+    Assim como os catfishers, os golpistas de encontros online evitam mostrar suas verdadeiras
+    faces, afinal, as fotos que você vê são provavelmente de outra pessoa.
+    Se você receber uma ligação, fique atento à sua segurança. Câmeras integradas a
+    notebooks e smartphones são alvos importantes de hackeamento. Então configure a sua
+    segurança de webcam para impedir que golpistas espionem você ou gravem imagens suas
+    sem permissão. Os golpistas românticos raramente desejam se encontrar pessoalmente,
+    pois eles não são quem dizem ser. Mesmo assim, eles prometem uma visita de forma
+    constante para não perder o contato. Os bandidos sempre têm uma desculpa para não
+    comparecer, como uma circunstância trágica ou um problema de última hora. As histórias
+    desses golpistas quase sempre são emocionais, envolvendo doenças ou um acidente severo
+    para gerar compaixão máxima. Normalmente um pedido de dinheiro acompanha essas histórias.
+    O grande alerta é o pedido de dinheiro antes do encontro. Os golpes virtuais fazem
+    parte do estilo de vida dos cibercriminosos, então nenhum golpe romântico estaria
+    completo sem um pedido de ajuda financeira. Geralmente eles começam com pequenos
+    valores antes de partirem para quantias mais altas. Talvez eles peçam um empréstimo
+    rápido até receberem o próximo pagamento ou para pagar a assinatura do site para que
+    vocês mantenham o contato. Os golpistas podem até enviar dinheiro ou reembolsar a
+    vítima antes de pedir qualquer coisa como prova de estabilidade financeira.
+    Golpistas contam muitas histórias explicando os motivos de precisarem da ajuda da
+    vítima. Estamos lidando com contadores de história habilidosos e criativos que
+    exploram o altruísmo das pessoas.
+    O golpe pode se dar quando o bandido pede ajuda para:
+    Comprar um novo dispositivo para que possam trabalhar, estudar ou continuar falando
+    com você.
+    Pagar por passagens aéreas ou despesas de viagens para visitas.
+    Cobrir os custos de um tratamento médico ou funeral de algum parente.
+    Pagar uma taxa para receber uma herança ainda maior.
+    Quitar despesas de apostas.
+    Investir em um novo negócio.
+    A solicitação feita geralmente corresponde com a identidade falsa criada pelo
+    impostor. Por exemplo, se o bandido se passa por um membro das forças armadas,
+    ele pode pedir dinheiro para complementar um seguro de saúde militar.
+    Os golpes românticos geralmente seguem um roteiro particular, mesmo que
+    aparentemente as falas sejam para você e somente para você. As frases comuns de
+    golpes românticos incluem:
+    “Vou te pagar.”
+    “Não posso fazer uma chamada de vídeo.”
+    “Somos tão parecidos.”
+    “Confie em mim.”
+    “Estou apaixonado(a) por você.”
+    “Mal posso esperar para estar com você, mas...”
+    “Minhas contas bancárias estão bloqueadas.”
+    Qualquer frase nesse sentido pode ser um sinal de alerta de que você está lidando com
+    um golpista, especialmente se ele bombardear você ou continuar evitando chamadas de
+    vídeo ou encontros pessoalmente.</template>
+  </category>
+  <category>
+    <pattern>COMO É O GOLPE EM SITE DE ENCONTRO</pattern>
+    <template>
+      Para evitar golpes em sites de namoro e ter encontros seguros online,
+      tome cuidado com cada interação online que tiver, caso não tenha conhecido a pessoa
+      na vida real. A melhor forma de enganar um golpista de encontros online é permanecer
+      vigilante e seguir normas de segurança úteis ao usar sites de namoro.
+      Dicas para não ser enganado por um golpista de encontros online:
+    Não deixe a plataforma na qual a conversa teve início. Não saia do site ou aplicativo
+    de encontro para falar com o pretendente até conhecê-lo pessoalmente. Também vale a
+    pena apostar em serviços conhecidos e de boa reputação para não cair em sites perigosos.
+    Não pressuponha que a outra pessoa é confiável. Golpistas gostam de criar perfis falsos
+    em sites e aplicativos de encontro para enganar suas vítimas.
+    Faça uma pesquisa na internet. Verifique seus antecedentes cruzando perfis online com
+    uma pesquisa rápida de seus nomes para ver o que aparece.
+    Pesquise a foto use o Google para fazer uma busca de imagem reversa da foto do perfil
+    do pretendente. Veja se as imagens não aparecem com informações divergentes.
+    Fique alerta. Atenção a elogios demasiados. Faça uma busca para ver se as palavras de
+    agrado não aparecem em roteiros de sites de golpes românticos.
+    Vá com calma. Faça muitas perguntas e veja se as respostas são consistentes. Se alguém
+    quer um compromisso imediato ou tenta apressar as coisas, esse comportamento pode ser
+    sinal de um golpista à frente.
+    Peça uma segunda opinião. Em caso de dúvida, peça conselhos a um parente ou amigo.
+    Um olhar de fora pode ajudar na identificação de um golpe.
+    Marque um encontro em local público ou agende uma videochamada. Se a pessoa evita
+    mostrar seu rosto, há chances de ser um golpista. Encontre-se com o pretendente em um
+    espaço público e evite viagens distantes.
+    Não confie em links ou downloads desconhecidos. Algumas vezes, golpistas mantém links
+    maliciosos em seus perfis ou enviam malwares em mensagens. Não clique em links suspeitos,
+    especialmente se forem irrelevantes para o desenrolar da conversa.
+    Não envie dinheiro. Não importa qual seja a história do golpista, nunca envie dinheiro
+    a alguém desconhecido. Isso inclui o compartilhamento de informações pessoais ou dados
+    de contas que podem ser usados em um roubo de identidade. Muitos golpistas também usam
+    táticas de ataques phishing. O que perguntar a um golpista: Como identificar um golpe
+    romântico? Fazer as perguntas certas pode ajudar a descobrir se o pretendente é realmente
+    quem diz ser ou um golpista tentando fazer mais uma vítima. Aqui vai uma lista de
+    perguntas a fazer para desmascarar potenciais golpes românticos:
+    Onde você cresceu?
+    Qual restaurante na sua cidade você mais gosta?
+    Conte sobre sua família.
+    Quais foram as melhores férias da sua infância?
+    Qual o seu nome do meio?
+    Onde você se formou?
+    O que você faz durante o dia?
+    Podemos fazer uma videochamada mais tarde?
+    Qual o seu Face/Instagram?
+    Se houver algo estranho nas respostas, siga a sua intuição. Golpistas querem controlar
+    a narrativa. Eles evitam o compartilhamento de informações que podem expor suas
+    identidades. Respostas vagas ou genéricas podem ser sinal de um golpe.
+    Como funcionam os golpes românticos: Os golpes românticos tendem a seguir um padrão
+    familiar. No aplicativo de encontros, a vítima dá um match com um perfil falso.
+    Rapidamente o golpista ganha a confiança da vítima, estabelecendo uma conexão entre os
+    dois. O golpista pede dinheiro para ajudá-lo em uma situação de emergência ou dificuldade,
+    prometendo pagar o mais rápido possível. Depois de conseguir o dinheiro, ele simplesmente
+    desaparece, deixando a vítima no prejuízo. O golpista também pode continuar pedindo dinheiro
+    até que seu plano seja desmascarado e a exploração tenha um fim.
+    Existem muitos golpes românticos no mundo virtual. Cada um segue seu próprio roteiro e
+    padrão de comportamento. Alguns dos tipos mais comuns de golpes românticos são:
+    Golpes de sugar daddy: Um golpista sugar daddy é alguém que se diz rico e procura a
+    companhia de uma pessoa mais jovem, oferecendo benefícios financeiros e presentes. Mas
+    antes que o suposto sugar daddy possa lhe dar dinheiro, ele pede que você envie dinheiro
+    primeiro.
+    Golpes de catfishing: Os golpes de catfish acontecem quando alguém cria um perfil online
+    falso usando fotos ou informações pessoais de outra pessoa, ou até mesmo um perfil
+    gerado por IA, para atrair e enganar uma vítima.
+    Golpes de herança: O golpista afirma que precisa se casar para obter uma herança.
+    Além de pressionar você a concordar em se casar, ele pedirá o pagamento da viagem ou
+    suas informações pessoais para roubar sua identidade.
+    Golpes militares: O golpista se disfarça de militar no exterior, e é por isso que vocês
+    não podem se encontrar. Nesse golpe, o golpista provavelmente usará jargão militar para
+    convencer você de sua posição e pedirá dinheiro para despesas militares ou relacionadas
+    a viagens para o encontro.
+    Golpes de foto: O golpista pede que você envie fotos íntimas online, que ele usará para
+    fazer chantagem. Em outro cenário, ele também pode pedir fotos não íntimas, que usa para
+    criar outras contas falsas online.
+    Golpes de suporte técnico: Embora os golpes de suporte técnico sejam normalmente de
+    natureza profissional, os golpistas podem usar o suporte técnico como um pretexto para
+    entrar em contato com você e iniciar a conversa assim que você entrar em contato.
+    Golpes de plataformas de petróleo: Semelhante à tática do golpe militar, o bandido diz
+    que trabalha em uma plataforma de petróleo e, portanto, tem poucas oportunidades para
+    encontros. Eles podem pedir apenas uma pequena quantia de dinheiro no início, mas então
+    acontecerá uma emergência e eles logo precisarão de muito dinheiro.
+    Golpes de redes sociais: Os golpistas fazem contato através do Facebook, Instagram,
+    WhatsApp ou outros sites de redes sociais. Eles então trabalham para ganhar sua
+    confiança e descobrir mais detalhes sobre você.
+    Sites de encontro falsos: Em alguns casos, o site de encontro pode ser um site
+    falsificado, criado para atrair pessoas solitárias em busca de amor e fazer com que
+    elas compartilhem informações confidenciais ou baixem malware em seus dispositivos.
+    Qualquer pessoa que tente namorar online pode ser alvo de golpes românticos online,
+    mas os golpistas tendem a ter pessoas vulneráveis como alvo. As mulheres são
+    frequentemente vistas como mais vulneráveis pelos golpistas, porque às vezes há uma
+    pressão de tempo para encontrar alguém, especialmente se desejarem ter filhos.
+    Uma pesquisa descobriu que mais de 66% das vítimas eram mulheres, e a média de idade
+    era de 47 anos. Mas a faixa etária das vítimas era de 18 a 77 anos, provando que as
+    táticas usadas pelos golpistas podem funcionar com qualquer pessoa, de jovens adultos
+    até idosos. </template>
+  </category>
+  <category>
+    <pattern>COMO DENUNCIAR O GOLPE ROMÂNTICO</pattern>
+    <template>
+      Caso acredite ser vítima de um golpe romântico, faça uma denúncia. Isso ajudará a
+      evitar que outros caiam nos mesmos truques e ajudará as autoridades a erradicar
+      atividades ilegais online. Confira essas três etapas para denunciar um golpe
+      romântico: Fale com seu banco. Talvez você recupere fundos perdidos. Ou você pode
+      bloquear a realização de uma transferência.
+      Faça um B.O. a polícia tem departamento para crimes digitais. Caso você compartilhe
+      informações de passaporte, números de cartões de crédito ou qualquer outro dado de
+      identificação pessoal, denuncie o golpe como roubo de identidade.
+      Denuncie o golpe no site ou app de namoro. Fale com a plataforma na qual conheceu o
+      golpista e passe o maior número de informações possível, incluindo o nome de usuário
+      do vigarista. A remoção do perfil falso contribuirá com a segurança de outros usuários.</template>
+  </category>
+  <category>
+  <pattern>O QUE É ENGENHARIA SOCIAL</pattern>
+  <template>Engenharia social é um método usado para enganar, manipular ou explorar a confiança das pessoas
+  com o objetivo de obter informações confidenciais, acesso a sistemas ou fazer com que a vítima realize alguma
+  ação perigosa. Diferente dos ataques cibernéticos que exploram vulnerabilidades tecnológicas, a engenharia
+  social foca na vulnerabilidade humana. Os "engenheiros sociais" exploram a psicologia humana, como a curiosidade,
+  a urgência, o medo, a ganância ou até mesmo a disposição em ajudar, para persuadir suas vítimas. Eles podem se
+  passar por pessoas ou entidades confiáveis, para induzir a vítima a fornecer dados confidenciais ou a instalar
+  softwares maliciosos. Usam diferentes abordagens, como: Fingir que já sabe a informação para que a vítima dê o
+  restante.Conta algo sigiloso e oferece uma informação em troca, despertando a reciprocidade. Pedir ajuda para a
+  vítima se sintir culpada em não ajudar, e fornecer dados. Se passa por autoridade, usando a hierarquia ou o
+  respeito para induzir a vítima a agir. Para saber mais, digite: Como surgiu o termo Engenharis social?
+  Existem bons Engenheiros Sociais? Como era a Engenharia Social no passado? E agora como é a Engenharia social?
+  História da Engenharia Social.
+  </template>
+    </category>
+    <category>
+  <pattern>COMO SURGIU O TERMO ENGENHARIA SOCIAL</pattern>
+  <template>O termo “engenharia social” nasceu no final do século 19 e foi inventado por
+  industriais europeus que tinham alguns problemas com funcionários descontentes. A ideia
+  deles era que, assim como os engenheiros tradicionais podem usar perícia para resolver
+  problemas relacionados às máquinas, os engenheiros sociais podem usar seus conhecimentos
+  para resolver problemas relacionados à força de trabalho. Tal como acontece com tantas
+  outras coisas, a noção de engenharia social mudou muito no decorrer do último século.</template>
+    </category>
+    <category>
+  <pattern>EXISTEM BONS ENGENHEIROS SOCIAIS</pattern>
+  <template>Bons engenheiros sociais podem não saber como enganar o sistema de anti-vírus,
+  mas sabem como enganar você. Sabem sobre a psicologia das vítimas e são muito bons em
+  prever como reagirá a uma situação específica, Tem uma compreensão completa de como o
+  cérebro funciona, podem colocá-lo em uma posição que fará certas coisas que normalmente
+  não faria. São chamamos de engenheiros sociais – porque um engenheiro pode manipular uma
+  máquina para trabalhar, um engenheiro social pode manipular para entregar a senha ou
+  enviar dinheiro para uma conta desconhecida. A engenharia social é classificada como um
+  truque de confiança, e dependem de ganhar a confiança e depois abusar dela. O importante
+  é não confiar nas pessoas no meio virtual (e-mails, mensagens, perfis falsos nas redes sociais
+  ou chamadas telefônica).</template>
+    </category>
+  <category>
+    <pattern>COMO ERA A ENGENHARIA SOCIAL NO PASSADO</pattern>
+  <template>A engenharia social é tão antiga quanto a própria interação humana. Ela não "surgiu" em um
+  ponto específico da história, mas evoluiu e se adaptou com o tempo, especialmente com o advento da
+  tecnologia. Engenharia Social "Tradicional" - Antes da internet, a engenharia social já era amplamente
+  utilizada em diversas áreas, como: Espionagem e Contrainteligência - Crimes Comuns - Vendas e Marketing.
+  O termo "engenharia social" tem raízes no final do século XIX e início do século XX. Foi cunhado em um
+  contexto de ciências sociais e política, tentativas de influenciar o comportamento em massa e remodelar
+  a sociedade (por políticas governamentais, campanhas de saúde pública ou propaganda). Não tinha a conotação
+  maliciosa de manipulação individual que tem hoje.</template>
+</category>
+<category>
+  <pattern>E AGORA COMO É A ENGENHARIA SOCIAL</pattern>
+  <template>A engenharia social ganhou uma nova dimensão e se tornou mais amplamente conhecida com a proliferação
+  dos computadores e da internet. Phone Phreaking (Anos 1970): o "phone phreaking" foi uma precursora da engenharia
+  social cibernética. Indivíduos exploravam as vulnerabilidades do sistema telefônico para fazer chamadas gratuitas,
+  muitas vezes usando manipulação verbal para obter informações das operadoras de telefonia. Primeiros Hackers e o
+  Reconhecimento do "Elo Mais Fraco" (Anos 1980): com o surgimento dos computadores pessoais e das redes, hackers
+  começaram a perceber que o elo mais fraco em qualquer sistema de segurança não era a tecnologia, mas sim o fator
+  humano. Era mais fácil enganar um funcionário para que ele revelasse uma senha do que gastar horas tentando quebrá-la
+  por meios técnicos. Kevin Mitnick: é amplamente creditado por popularizar o termo "engenharia social" no contexto da
+  cibersegurança. Suas proezas nos anos 80 e 90, ele usava a engenharia social de forma brilhante para invadir grandes
+  corporações, trouxeram o conceito para a luz pública e o tornaram o "engenheiro social" mais famoso. O livro
+  "A Arte de Enganar" detalha extensivamente suas técnicas. O Advento do Phishing (1990/2000): popularização do e-mail,
+  o phishing uma das formas mais de engenharia social. Mensagens falsas de bancos, provedores de internet ou outras
+  entidades visavam enganar usuários para que revelassem credenciais. O termo "phishing" ("pesca" de informações)
+  surgiu nesse período. Evolução e Sofisticação: Com o tempo se tornou mais sofisticada, com técnicas:
+  Pretexting: Criação de um cenário falso e convincente para obter informações. Baiting: Uso de "iscas" (pendrives
+  infectados). Scareware: mensagens alarmantes para a vítima agir por medo. Spear Phishing: Ataques de phishing
+  altamente direcionados e personalizados. Vishing e Smishing: Engenharia social por telefone, SMS eWhatsApp.
+  A engenharia social é um comportamento humano atemporal de manipulação e persuasão. O termo como conhecemos
+  hoje no contexto de segurança cibernética foram popularizados a partir dos anos 1980 e 1990, com figuras que
+  demonstranram a eficácia do "human hacking" como a principal vulnerabilidade em sistemas de segurança cada vez
+   mais complexos.</template>
+    </category>
+    <category>
+    <pattern>HISTÓRIA DA ENGENHARIA SOCIAL</pattern>
+  <template>Um dos exemplos mais famosos da engenharia social é o Cavalo de Troia. Na
+  mitologia grega, os gregos enganaram os troianos, fazendo-os acreditar que o gigantesco
+  cavalo de madeira era um presente e um sinal de rendição. Os troianos, então, levaram o
+  cavalo para dentro das muralhas da cidade, sem saber que estava cheio de soldados gregos,
+  o que levou à queda de Troia. Isso demonstra uma manipulação de confiança e emoções, como a crença na
+  superstição e da vitória, para obter um objetivo. Sua história remonta às primeiras formas de manipulação e
+  influência na sociedade, no contexto moderno, ela se consolidou como uma técnica de
+  ataque cibernético voltada à manipulação de pessoas. A engenharia social já era praticada na forma de engano,
+  persuasão e manipulação na vida cotidiana, como golpes presenciais, fraudes telefônicas e
+  táticas de convencimento. Início da era digital - as técnicas passaram a ser utilizadas
+  por cibercriminosos para explorar vulnerabilidades humanas ao invés das técnicas. Com o crescimento da internet,
+  surgiram os primeiros ataques de engenharia social em grande escala, como golpes por e-mail, phishing e pretexting,
+  onde os atacantes criam histórias falsas para enganar as vítimas. Evoluiu com o uso de redes sociais,
+  telefonemas, mensagens instantâneas e outras plataformas digitais, tornando-se uma das principais ferramentas
+  para ataques cibernéticos, muitas vezes combinada com técnicas técnicas de hacking. Importância e impacto - É
+  considerada uma das ameaças mais eficazes na segurança da informação, explora a confiança, o medo, a urgência
+  e outros aspectos psicológicos das pessoas. Sua história reflete a crescente sofisticação das táticas usadas
+  por criminosos para contornar defesas técnicas e atingir seus objetivos. A história é uma trajetória de manipulação
+  que evoluiu de práticas tradicionais de engano para sofisticadas técnicas digitais, sendo hoje uma das principais
+  ameaças na segurança cibernética global.</template>
+</category>
+<category>
+  <pattern>COMO É A ENGENHARIA SOCIAL COM A PESSOA FÍSICA</pattern>
+  <template>
+    A engenharia social direcionada a pessoas físicas é eficaz porque explora as emoções, a curiosidade,
+    a urgência, o desejo de ajudar e, acima de tudo, a confiança do indivíduo. Os golpistas se aproveitam
+    de situações do dia a dia para manipular a vítima e fazê-la entregar informações confidenciais ou
+    realizar ações que a prejudiquem. Coleta de informações através de redes sociais, onde as pessoas
+    compartilham muito sobre suas vidas, interesses, trabalho, família e até mesmo hábitos. Com as
+    informações, ele cria uma história que justifique o contato e o pedido de informações ou ação.
+    Pode ser de urgência, de oportunidade, de ajuda, de autoridade, etc.
+    O contato pode ser feito de diversas formas: por e-mail (Phishing) - imitando bancos, operadoras,
+    Receita Federal etc., até mesmo amigos e familiares. Contêm links para sites falsos ou anexos maliciosos.
+    SMS (Smishing) - Mensagens de texto com links ou pedidos de informações urgentes, como "sua conta foi
+    bloqueada". Telefone (Vishing) - Ligações de pessoas que se passam por atendentes de bancos, suporte técnico
+    ou até mesmo a polícia, alegando problemas com a conta ou atualização cadastral. Redes Sociais - Perfis falsos
+    de amigos ou familiares, pedindo dinheiro, divulgando promoções falsas ou links maliciosos. Também tem perfis
+    falsos de grandes empresas. Pessoalmente - Alguém se passando por um técnico, um entregador ou até mesmo um vizinho
+    em necessidade. Usa manipulação psicológica, como: Urgência, Medo, Curiosidade, Ganância, Autoridade e Confiança
+    ou Reciprocidade. Para saber mais, digite: Quais os exemplos mais comuns? Como a pessoa física deve se proteger?
+  </template>
+</category>
+
+<category>
+  <pattern>QUAIS OS EXEMPLOS MAIS COMUNS</pattern>
+  <template>Exemplos comuns de engenharia social com pessoas físicas: Golpe do falso suporte técnico -
+  Phishing de banco/cartão de crédito (e-mails ou SMS) - Golpe do WhatsApp clonado/falso - Golpe da falsa
+  promoção/prêmio (mensagens ou e-mails) - Sextortion (extorsão sexual) - Golpe do Falso Motoboy -
+  Golpe do "parente em apuros", um parente distante ou até mesmo o filhoda vítima, alega emergência e pede Pix.
+  </template>
+    </category>
+    <category>
+  <pattern>COMO A PESSOA FÍSICA DEVE SE PROTEGER</pattern>
+  <template>A proteção contra engenharia social depende principalmente da conscientização e do senso crítico.
+  Desconfie sempre: "Se a mensagem é boa demais para ser verdade" ou urgência, desconfie. Verifique a fonte.
+  Não clique em links suspeitos. Não abra anexos de remetentes desconhecidos (malwares). Proteja as informações pessoais.
+  Cuidado com o que compartilha em redes sociais. Quanto menos informações sobre a pessoa, menos "material" terá o golpista.
+  Habilite a autenticação de dois fatores (2FA). Mantenha seus softwares atualizados. Não se deixe levar pelas emoções.
+  Converse com seus familiares e amigos - Compartilhe informações sobre a engenharia social para que fiquem protegidos,
+  especialmente idosos, que são alvos frequentes. A engenharia social é um crime que se adapta constantemente. Manter-se
+  informado sobre as novas táticas e praticar a desconfiança saudável são as melhores formas de se proteger.
+  </template>
+    </category>
+  <category>
+    <pattern>COMO É A ENGENHARIA SOCIAL NO SETOR PRIVADO</pattern>
+    <template>No setor privado, a engenharia social é uma das maiores ameaças à segurança da informação e à continuidade
+    dos negócios. Os ataques tecnológicos que buscam falhas em sistemas, a engenharia social explora o "elo mais fraco"
+    da corrente de segurança: "o ser humano". Os ataques buscam informações confidenciais, credenciais de acesso a
+    sistemas corporativos, induzir funcionários a realizar ações que comprometam a empresa (instalação de malware etc.).
+    Quais as técnicas de Engenharia Social no setor privado? Quais são alguns tipos de Engenharia Social no setor privado?
+    Quais são as consequencias e como proteger o setor Privado?</template>
+</category>
+<category>
+    <pattern>QUAIS AS TÉCNICAS DE ENGENHARIA SOCIAL NO SETOR PRIVADO</pattern>
+    <template>No setor privado, a engenharia social é uma das maiores ameaças à segurança da informação e à continuidade
+    dos negócios. Os ataques tecnológicos que buscam falhas em sistemas, a engenharia social explora o "elo mais fraco"
+    da corrente de segurança: "o ser humano". Os ataques buscam informações confidenciais, credenciais de acesso a
+    sistemas corporativos, induzir funcionários a realizar ações que comprometam a empresa (instalação de malware etc.).
+    Principais vetores e técnicas de engenharia social no setor privado:
+    Business Email Compromise (BEC) / Fraude do CEO - O atacante se passa por um executivo de alto escalão (CEO, CFO)
+    ou por um fornecedor/parceiro de negócios via e-mail. A mensagem é geralmente muito convincente e solicita uma
+    transferência urgente de grandes somas de dinheiro, a mudança de dados bancários de um fornecedor, ou o envio de
+    informações confidenciais. Um e-mail "do CEO" para o departamento financeiro, pedindo uma transferência urgente para
+    uma conta bancária "de um novo fornecedor" para fechar um negócio crucial, ou um e-mail "do fornecedor" com novos
+    dados bancários para pagamento de faturas. O alvo - equipes financeiras e contábeis, qualquer funcionário com
+    autoridade para realizar transações ou acessar dados críticos. Spear Phishing e Whaling - são variações altamente
+    direcionadas do phishing. O alvo é pesquisado profundamente para criar e-mails e mensagens extremamente personalizados.
+    Spear Phishing - Ataca funcionários de qualquer nível. Simular o RH, TI, um colega ou um fornecedor. O objetivo é fazer
+    a vítima a clicar em um link malicioso, abrir um anexo com malware ou fornecer credenciais. Whaling - o spear phishing
+    direcionado a executivos de alto nível ou diretores, para obter informações estratégicas ou valores financeiros altíssimos. </template>
+</category>
+<category>
+  <pattern>QUAIS SÃO ALGUNS TIPOS DE ENGENHARIA SOCIAL NO SETOR PRIVADO</pattern>
+      <template>Alguns tipos de engenharia social no setor privado:
+      Spear phishing direcionado - visa funcionários específicos. Pesquisam informações sobre a empresa, hierarquias e
+      colaboradores para personalizar mensagens, para aumentar a probabilidade de sucesso. Pretexting é para obter acesso
+      a sistemas internos. Cria um pretexto convincente, se passa por um funcionário, prestador de serviços ou parceiro,
+      para enganar funcionários e obter informações privilegiadas. Ameaças Internas por manipulação psicológica -
+      a engenharia social pode ser explorada por funcionários desonestos para prejudicar a empresa. Colaboradores
+     insatisfeitos ou ex-funcionários, manipulando, buscam vingança ou ganho pessoal. Para saber mais sobre tipos de
+      engenharia social no setor privado, digite: pharming, roubo de identidade, hackers, eficácia, prevenção nas empresas,
+      fraudes digitais, golpes digitais, legistação. Pretexting - o atacante cria um cenário falso e se passa por uma figura
+      de confiança para obter informações ou acesso. Isso pode ser feito por telefone ou pessoalmente.
+      Tailgating (ou Piggybacking) - o atacante segue um funcionário autorizado para entrar em áreas restritas da empresa,
+      como escritórios, data centers ou salas de servidores, sem ter sua própria credencial de acesso.
+      Baiting (Isca) - O criminoso deixa um dispositivo físico infectado (como um pendrive com um malware) em um local
+      estratégico dentro ou nas proximidades da empresa, com um rótulo chamativo como "Salários 2025" ou
+      "Informações Confidenciais da Diretoria". A esperança é que algum funcionário curioso o conecte ao computador da
+      empresa. Quid Pro Quo - oferta de um "benefício" em troca de informações. Dumpster Diving (Coleta de Lixo) -
+      Embora não envolva diretamente a manipulação de pessoas, é uma forma de engenharia social reversa ou indireta. O
+      atacante busca informações em lixeiras da empresa que podem conter dados úteis para outros ataques.</template>
+    </category>
+    <category>
+    <pattern>QUAIS SÃO AS CONSEQUENCIAS E COMO PROTEGER O SETOR PRIVADO</pattern>
+    <template>Consequências para o setor privado: Perdas financeiras diretas, Vazamento de dados, Danos à reputação,
+    Interrupção de operações, Multas e sançõesrelacionadas à LGPD (Lei Geral de Proteção de Dados) e outras
+    regulamentações, Perda de vantagem competitiva. Como se proteger: Treinamento e Conscientização Contínua dos
+    Funcionários, Sessões regulares de treinamento sobre as últimas táticas de engenharia social, Simulações de phishing
+    e outros ataques (com feedback educativo para os que "caíram"), Campanhas internas de conscientização (pôsteres,
+    e-mails, comunicados), Enfatizar a importância de desconfiar de e-mails, ligações e solicitações incomuns.
+    Políticas e Procedimentos de Segurança Robustos - Procedimentos de verificação - Controle de Acesso Físico -
+    Política de Descarte de Documentos - Uso de Dispositivos Pesoasis (BYOD). Tecnologia de Segurança: Filtros
+    Anti-Phishing e Anti-Spam - Autenticação Multifator (MFA) - Soluções de Detecção e Resposta (EDR/XDR) -
+    Segurança de E-mail: DMARC, DKIM, SPF para prevenir a falsificação de domínios. Sistemas de Prevenção de Intrusões
+    (IPS) e Detecção de Intrusões (IDS) - E Promover a Cultura de Segurança na empresa. A segurança é responsabilidade
+    de todos na empresa. A engenharia social no setor privado é uma ameaça persistente porque explora a psicologia humana
+    e as relações de confiança dentro e fora da organização. A melhor defesa reside em uma combinação de tecnologia
+    avançada e, principalmente, em um programa contínuo de educação e conscientização que transforme os funcionários na
+    primeira linha de defesa da empresa.</template>
+</category>
+    <category>
+    <pattern>O QUE É PHARMING</pattern>
+    <template>
+      Pharming é uma técnica de ataque que combina engenharia social com manipulação
+      técnica, alterando a rota de acesso aos sites legítimos, redirecionando o tráfego
+      para páginas falsas que capturam dados como credenciais bancárias e informações
+      empresariais.</template>
+  </category>
+  <category>
+    <pattern> QUEM SÃO OS HACKERS</pattern>
+    <template>
+      Hackers usam engenharia social para burlar autenticação ao explorarem a confiança,
+      forjando situações como o esquecimento de credenciais ou passando-se por figuras de
+      autoridade, como mostrado no filme Takedown sobre Kevin Mitnick.
+    </template>
+  </category>
+  <category>
+    <pattern>LEGISLAÇÃO</pattern>
+    <template>A internet não é uma terra sem lei. Existem legislações especificamente criadas
+    para o objetivo de tipificar as fraudes, determinar direitos e deveres dos usuários e
+    qualificar as penas para quem comete um crime na internet. Sim, golpes digitais são
+    considerados crimes. A Lei dos Crimes Cibernéticos (12.737/2012) tipifica algumas fraudes
+    digitais, como violar dados pessoais de usuários e invadir sistemas e computadores. Pela
+    lei, os crimes considerados menos graves podem ser punidos com 3 meses a 1 ano de prisão
+    e multa. Já os crimes graves podem ter pena de 6 meses a 2 anos de prisão, além da multa.
+    A Lei do Marco Civil da Internet (12.965/2014) dispõe sobre os direitos e deveres dos internautas.
+    Ela também regula os dados pessoais e a privacidade dos usuários. Lei nº 14.155/2021,
+    endurece a condenação para “crimes de violação de dispositivo informático, furto e
+    estelionato cometidos de forma eletrônica ou pela internet”. O Código Penal (2.848/1940)
+    foi alterado a partir dessa previsão, e a pena passa a ser de até 8 anos de prisão,
+    podendo ser agravada nos casos em que a vítima é uma pessoa vulnerável ou idosa ou quando
+    o crime for praticado através de um servidor de fora do Brasil.</template>
+  </category>
+  <category>
+    <pattern>ATAQUE GLOBAL</pattern>
+    <template>
+      Vigaristas digitais realizaram um ataque global. Hackers realizaram um ataque virtual ao redor do mundo com uma variação
+      de um vírus que sequestra computador e exige resgate com bitcoins. A mensagem arrepiante que apareceu
+      na tela de muitos computadores foi: “Se você vir este texto, então seus arquivos não são mais acessíveis,
+      pois foram encriptados. Buscar uma forma de recuperar os arquivos, é perca de tempo.
+      Ninguém recupera seus arquivos sem nosso serviço de decodificação”. Custa 300 dólares,
+      pagos em bitcoin. Os ladrões parecem Janus Cybercrime Solutions,
+      uma empresa que oferece uma solução para o problema que ela mesma criou,
+      o ransomware (programa de resgate) Petya, usado no ataque. </template>
+  </category>
+  <category>
+  <pattern>EXPERIÊNCIA DO USUÁRIO</pattern>
+  <template>Os exemplos são as experiências dos usuários. Para saber alguns, digite:
+  Golpe do Falso Suporte Técnico, A Criança e a Internet, Crianças pequenas e a Internet,
+  Adolescentes e a internet, Desvios de remédios, Engenharia social grotesca.</template>
+</category>
+</aiml>
